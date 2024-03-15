@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
-
+// comment
 public class Usuarios {
     private String nombre;
     private String apellido;

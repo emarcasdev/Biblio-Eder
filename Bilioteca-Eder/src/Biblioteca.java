@@ -27,7 +27,7 @@ public class Biblioteca {
             }
         }
     }
-
+    // comment
     public void pedirLibro(Usuarios usuario, Libros libro) {
         if (libros.contains(libro)) {
             JOptionPane.showMessageDialog(null, usuario + " ha realizado el prestamo del libro: " + libro);
